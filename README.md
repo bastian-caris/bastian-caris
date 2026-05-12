@@ -11,5 +11,4 @@ Python · C · MATLAB · Linux · Git
 ## Currently learning
 Machine learning · MLOps · Data pipelines
 
-## Reach me
-bastian.caris.m@gmail.com
+
