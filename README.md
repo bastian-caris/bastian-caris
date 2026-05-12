@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bastian 👋
 
-<!--
-**bastian-caris/bastian-caris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineering student at USACH, Chile.
+Interested in software development, machine learning and autonomous systems.
 
-Here are some ideas to get you started:
+Currently working on my thesis — modeling and control of autonomous underwater vehicles (AUV) as part of a FONDECYT project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+Python · C · MATLAB · Linux · Git
+
+## Currently learning
+Machine learning · MLOps · Data pipelines
+
+## Reach me
+bastian.caris.m@gmail.com
